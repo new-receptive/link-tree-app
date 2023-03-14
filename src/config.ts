@@ -54,7 +54,7 @@ const config = {
       key: "github",
       label: "GitHub",
       iconUrl: GitHub,
-      redirectUrl: "https://github.com/spheronFdn/",
+      redirectUrl: "https://github.com/new-receptive",
     },
   ],
 };
